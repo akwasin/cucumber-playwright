@@ -1,4 +1,4 @@
-# cucumber-playwright
+# cucumber-playwright boilerplate
 
 ![Test](https://github.com/Tallyb/cucumber-playwright/workflows/Test/badge.svg)
 
